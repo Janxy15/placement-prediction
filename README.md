@@ -45,6 +45,4 @@ GET  /api/analytics/probabilities
 GET  /api/analytics/hypothesis
 POST /api/predict
 
-The seed data is synthetic development data. For the final academic project,
-replace it with your own collected/anonymized dataset or a properly cited
-public dataset.
+The seed data is synthetic development data for the academic project.
